@@ -1,0 +1,153 @@
+/* font-family: 'Fraunces',serif; */
+/* font-family: 'Dosis', sans -serif; */
+/* font-family: 'Montserrat',sans-serif; */
+/*start of global font */
+body{
+ /* font-family: 'Montserrat',
+ sans-serif;
+ font-size: 20px; */
+ background-color: #c1f5b6;
+color: black;
+}
+/*end of global font */
+
+.font{
+     font-family: 'Fraunces',
+     serif;
+     font-weight: 100;
+     color:#F08080;
+}
+
+.myColour{
+       font-family: 'Fraunces',
+       serif;
+       color: black;
+       background-color:#F4978E;
+
+}
+
+.iOffer{
+           margin-bottom: 30px;
+}
+
+.colorMyText{
+    color: #df173a;
+}
+
+/*start navbar styling */
+#mainNavbar{
+    font-size: medium;
+    font-family: 'Fraunces',
+    serif;
+    font-weight: 500;
+    margin-bottom: 20px;
+
+}
+
+#mainNavbar .navbar-brand{
+    color: #df173a;
+    font-size: 27px;
+    letter-spacing: 10px;
+
+}
+
+
+#mainNavbar .nav-item .nav-link{
+    font-size: large;
+    color: white;
+    margin-right: auto;
+}
+
+#mainNavbar .navbar-nav .active .nav-link:hover {
+    color: #df173a;
+    padding: 3px;
+    margin: 3px;
+}
+
+
+/*end navbar styling */
+
+.image{
+    border-radius: 100%;
+    padding-top: 20px;
+    border: 10px;
+    border-color: #df173a;
+}
+.headings{
+    color: #df173a;
+    text-align: center;
+     font-family: 'Fraunces',
+     serif;
+     font-weight: 500;
+     padding-top: 60px;
+     padding-bottom: 10px;
+}
+.myImage{
+    border-radius:100%;
+   padding: 5px;
+   margin: 5px;
+}
+
+.bigHeading{
+    font-weight: 700;
+        color:#F28188;
+        text-align: center;
+        font-family: 'Fraunces',
+        serif;
+        font-size: 50px;
+        font-weight: 800;
+        padding-top: 60px;
+        padding-bottom: 10px;
+}
+
+.card{
+    text-decoration: none;
+}
+
+
+.card-body{
+color: black;
+}
+
+.noDecoration{
+    color: black;
+    text-decoration: none;
+
+}
+
+#footer{
+    background-color: #FEF5F6;
+    color: black;
+    
+}
+
+.q{
+    text-decoration:none;
+    padding: 5px;
+    margin: 10px;
+    
+    
+}
+
+.foot{
+    color: #df173a;
+         font-family: 'Fraunces',
+         serif;
+font-weight: 500;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 10px;
+line-height: 70px;
+}
+
+#footer{
+    margin-top: 30px;
+}
+
+
+/* end of landing page */
+
+
+
+/* start of services */
+

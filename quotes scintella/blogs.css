@@ -1,0 +1,47 @@
+body {
+    font-family: 'dosis',
+    sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    background-image: url(../images/marble.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* color: white; */
+    color: black;
+}
+
+.poetryColor{
+         font-family: 'Fraunces',
+         serif;
+         font-weight: 800;
+         font-size: 80px;
+         color: #F28188;
+         text-align: end;
+         padding-bottom: 30px;
+}
+
+.imageFix{
+ margin-left: 25px;
+ margin-right: 10px;
+    
+}
+
+.card{
+    padding: 5px;
+    margin: 50px;
+}
+
+#footer1 {
+    background-color: beige;
+    color: black;
+     letter-spacing: 5px;
+    height: 160px;
+}
+
+.quotesFix{
+ border-radius: 10%;
+ border-style:groove;
+ border-width: 5px;
+ border-color:black;
+width: 1000px;
+}
